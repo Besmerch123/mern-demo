@@ -1,5 +1,6 @@
 {
     "port": 5000,
     "jwtSecret": "test mern stack",
-    "mongoUri": "mongodb+srv://root:39396552@cluster0.cplm4.azure.mongodb.net/app?retryWrites=true&w=majority"
+    "mongoUri": "mongodb+srv://root:39396552@cluster0.cplm4.azure.mongodb.net/app?retryWrites=true&w=majority",
+    "baseUrl": "http://localhost:5000"
 }
